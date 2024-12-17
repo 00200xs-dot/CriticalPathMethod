@@ -1,0 +1,7 @@
+# ninja log v6
+2	361	7561513513728715	build.ninja	6aaf993bfe304b92
+27	128	7561401971005830	CMakeFiles/CriticalPathMethod.dir/src/main.c.obj	573ca10491e84327
+129	256	7561401972031947	CriticalPathMethod.exe	78671bc76ecd0a1d
+12	132	7561398669224339	CMakeFiles/CriticalPathMethod.dir/src/core/sort.c.obj	6e3da2b385b12f70
+16	131	7561398669255635	CMakeFiles/CriticalPathMethod.dir/src/core/find.c.obj	d9bafda034625d53
+20	132	7561398669303223	CMakeFiles/CriticalPathMethod.dir/src/core/graph.c.obj	8df7d78ce48e8ff4
